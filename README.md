@@ -8,7 +8,7 @@
 
 "On the official Georgia COVID stats web page is this graph. Looks good, getting better, right? Look closer at the dates on the X-axis. They have arranged the dates out of order to create a declining appearance."
 
-![Declining bars](the-bad/ga-dph-declining-bars.jpg)
+![Declining bars](the-bad/ga-dph-declining-bars.jpg){width="50%"}
 
 See https://livefreeordichotomize.com/2020/05/17/graph-detective/ for improving this in R.
 
