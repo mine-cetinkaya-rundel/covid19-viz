@@ -2,6 +2,25 @@
 
 ## The good
 
+- Source: https://www.sharedgeo.org/COVID-19/
+
+![Number of COVID-19 cumulative confirmed cases (per 100,000)](the-good/cases-per-100k.png)
+
+- Source: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html#clusters
+
+![New York Times COVID-19 Hotspots](the-good/nyt-hotspots.png)
+
+- Source: https://covidtracking.com/about-data/visualization-guide
+
+
+This is one of many examples in [The COVID Tracking Project Visualization Guide](https://covidtracking.com/about-data/visualization-guide). See the guide for tips on presenting COVID-19 data in a clear and accurate way.
+
+![Comparing State-reported Test Count Data with the CDC Data ](the-good/cdc-state-tests.png)
+
+- Source: https://covidtracking.com/race
+
+![COVID-19 deaths per 100,000 people by race ](the-good/covid-by-race.png)
+
 ## The bad
 
 - Source: https://twitter.com/fdhjr71/status/1261466653876879363?s=20
