@@ -27,7 +27,7 @@ This is one of many examples in [The COVID Tracking Project Visualization Guide]
 
 "On the official Georgia COVID stats web page is this graph. Looks good, getting better, right? Look closer at the dates on the X-axis. They have arranged the dates out of order to create a declining appearance."
 
-![Declining bars](the-bad/ga-dph-declining-bars.jpg){width="50%"}
+![Declining bars](the-bad/ga-dph-declining-bars.jpg)
 
 See https://livefreeordichotomize.com/2020/05/17/graph-detective/ for improving this in R.
 
@@ -45,4 +45,3 @@ See https://livefreeordichotomize.com/2020/05/17/graph-detective/ for improving 
 
 H/t [@callin_bull](https://twitter.com/callin_bull/status/1285396233406709760?s=20)
 
-- 
