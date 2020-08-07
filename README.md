@@ -50,7 +50,3 @@ H/t [@callin_bull](https://twitter.com/callin_bull/status/1285396233406709760?s=
 "... this chart is extraordinary misleading.  If you don't believe me, ask \@AlbertoCairo who wrote the book on it. Check the scale on the two axes."
 
 ![Counties with mask mandate vs. no mandate](the-bad/masks-v-nomasks.png)
-
-
-
-
