@@ -45,3 +45,8 @@ See https://livefreeordichotomize.com/2020/05/17/graph-detective/ for improving 
 
 H/t [@callin_bull](https://twitter.com/callin_bull/status/1285396233406709760?s=20)
 
+- Source: https://twitter.com/JonBoeckenstedt/status/1291602888376999936
+
+"... this chart is extraordinary misleading.  If you don't believe me, ask \@AlbertoCairo who wrote the book on it. Check the scale on the two axes."
+
+![Counties with mask mandate vs. no mandate](the-bad/masks-v-nomasks.png)
